@@ -1,0 +1,14 @@
+.btn-banner {
+  background-color: rgb(168, 190, 146);
+  color: rgb(255, 255, 255);
+  border-radius: 6px;
+  font-weight: bold;
+  padding: 8px;
+  transition: 0.4s ease;
+  margin-top: 100px;
+}
+
+.btn-banner:hover{
+  background-color: rgb(168, 190, 146);
+  color: rgb(90, 115, 89);
+}
